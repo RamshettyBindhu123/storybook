@@ -9,7 +9,7 @@
   
 </p>
 
-<p align="center">Build  bulletproof User Interface components faster</p>
+<p align="center">Build  bulletproof User Interface components Faster</p>
 
 <br/>
 
@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-Storybook is a frontend workshop for building UI components and pages in isolation. Thousands of teams use it for UI development, testing, and documentation. Find out more at https://storybook.js.org!
+Storybook is a frontend workshop for building User interface components and pages in isolation. Thousands of teams use it for UI development, testing, and documentation. Find out more at https://storybook.js.org!
 </p>
 
 <center>
@@ -60,7 +60,7 @@ Storybook is a frontend workshop for building UI components and pages in isolati
 
 ## Table of contents
 
-- 🚀 [Getting Started](#getting-started)
+- 🚀 [Getting Started](*getting-started)
 - 📒 [Projects](#projects)
   - 🛠 [Supported Frameworks & Examples](#supported-frameworks)
   - 🔗[Addons](#addons)
@@ -88,7 +88,7 @@ Use [storybook.new](https://storybook.new) to quickly create an example project 
 
 Storybook comes with a lot of [addons](https://storybook.js.org/docs/configure/user-interface/storybook-addons) for component design, documentation, testing, interactivity, and so on. Storybook's API makes it possible to configure and extend in various ways. It has even been extended to support React Native, Android, iOS, and Flutter development for mobile.
 
-### Community
+### Community ###
 
 For additional help, share your issue in [the repo's GitHub Discussions](https://github.com/storybookjs/storybook/discussions/new?category=help).
 

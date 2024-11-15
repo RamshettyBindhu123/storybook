@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left hand side">
   <a href="https://storybook.js.org/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/263385/199832481-bbbf5961-6a26-481d-8224-51258cce9b33.png">

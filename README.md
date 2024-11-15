@@ -204,7 +204,7 @@ Storybook is organized as a monorepo. Useful scripts include:
 
 Become a sponsor to have your logo and website URL on our README on Github. \[[Become a sponsor](https://opencollective.com/storybook#sponsor)]
 
-<a href="https://opencollective.com/storybook/tiers/sponsors/0/website?requireActive=true" target="_blank"><img src="https://opencollective.com/storybook/tiers/sponsors/0/avatar.svg?requireActive=true"></a>
+<a href="https://opencollective.com/storybook/tiers/sponsors/0/website?requireActive=true" target="_blank"><img src="https://opencollective.com/storybook/tiers/sponsors/34/avatar.svg?requireActive=false"></a>
 <a href="https://opencollective.com/storybook/tiers/sponsors/1/website?requireActive=true" target="_blank"><img src="https://opencollective.com/storybook/tiers/sponsors/1/avatar.svg?requireActive=true"></a>
 <a href="https://opencollective.com/storybook/tiers/sponsors/2/website?requireActive=true" target="_blank"><img src="https://opencollective.com/storybook/tiers/sponsors/2/avatar.svg?requireActive=true"></a>
 <a href="https://opencollective.com/storybook/tiers/sponsors/3/website?requireActive=true" target="_blank"><img src="https://opencollective.com/storybook/tiers/sponsors/3/avatar.svg?requireActive=true"></a>
@@ -241,4 +241,4 @@ By making a recurring donation, you can support us and our work. \[[Become a bac
 
 [MIT](https://github.com/storybookjs/storybook/blob/main/LICENSE)
 
--the end-
+_the end_
